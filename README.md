@@ -22,15 +22,15 @@
 
 ## Steps to run the frontend locally
 1. Open command prompt or a terminal and navigate to location where project is to be cloned.
-2. Run the following command to clone the repo <git clone https://github.com/prashantcse011/tic-tac-toe-react-app.git >.
-3. Navigate to project folder where package.json file is present and run command <npm i>.
-4. On successful completion of above step, run <npm run dev> to run the application in local.
+2. Run the following command to clone the repo < git clone https://github.com/prashantcse011/tic-tac-toe-react-app.git >.
+3. Navigate to project folder where package.json file is present and run command < npm i >.
+4. On successful completion of above step, run < npm run dev > to run the application in local.
 5. Click on the URL mentioned in terminal or copy and paste it in a browser tab and press enter.
 6. Select the game mode and make your move in the empty grid to start the game.
 
 ## Steps to run the tests
 1. Clone and install npm packages as mentioned till step 3 in previous section.
-2. Run command in terminal from same location where package.json is present, <npm run test >.
+2. Run command in terminal from same location where package.json is present, < npm run test >.
 
 ## AI tools and prompt summary
 Used GitHub CoPilot IDE plugin.
